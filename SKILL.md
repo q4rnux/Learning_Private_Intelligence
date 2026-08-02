@@ -1,3 +1,13 @@
+---
+name: Private Intelligence Learning
+description: Learn about private intelligence concepts and practices
+difficulty: Intermediate
+duration: 4 weeks
+---
+
+# Private Intelligence Learning
+
+This skill covers everything below:
 [
   {
     "name": "ai-output-validation",
